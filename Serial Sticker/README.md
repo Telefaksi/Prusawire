@@ -1,4 +1,4 @@
-Custom serial sticker for Prusawire.
+Custom serial sticker for Prusawire. Designed for 24 mm tape. Files include a printable cutting stencil.
 
 Template files are available as Affinity Designer 2 and Inkscape files.
 Used fonts are from [Google Fonts](https://fonts.google.com/specimen/Play). Play in regular and bold.
